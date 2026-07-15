@@ -1,0 +1,2 @@
+Python là một ngôn ngữ thông dịch, điều này nghĩa là ngôn ngữ này trực tiếp chạy từng dòng mã. Nếu có lỗi trong mã chương trình, nó sẽ ngừng chạy.
+vì chương trình không được biên dịch trực tiếp thành mã máy trước khi thực thi như C hay C++. Khi chạy một chương trình Python, mã nguồn (.py) trước tiên được biên dịch thành Bytecode (.pyc), sau đó Python Virtual Machine (PVM) sẽ thông dịch Bytecode và thực hiện từng lệnh. Toàn bộ quá trình này diễn ra tự động nên người lập trình không cần biên dịch thủ công trước khi chạy chương trình.
